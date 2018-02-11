@@ -1,2 +1,2 @@
 # exercisms
-My exercise solutions for exercism.io
+My exercise solutions for exercism.io tests
