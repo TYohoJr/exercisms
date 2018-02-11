@@ -17,7 +17,6 @@ Year.prototype.isLeap = function () {
     } else {
         return false;
     }
-
 };
 
 module.exports = Year;
