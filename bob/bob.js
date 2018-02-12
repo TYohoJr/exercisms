@@ -30,5 +30,3 @@ console.log(testString);
 
 
 module.exports = Bob;
-
-//test
